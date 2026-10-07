@@ -11,6 +11,10 @@ function App() {
      <nav>
    <Link className="mainbutton" to="/photos">LIST VIEW  </Link>
    <Link className="mainbutton" to="/gallery">GALLERY VIEW</Link>
+   
+    <h1>PHOTO VIEWER</h1>
+  
+   
 </nav>
 
       <Routes>
